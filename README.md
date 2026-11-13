@@ -76,6 +76,7 @@ String outputPath = "outputShield.txt";
 double R_1 = 0.5; 
 double R_2 = 0.5; 
 int attackSimulations = 10000;
+```
 
 ### Details
 After running the `MainTestOriginal.java`, users can choose whether to run the `MainTestKAnomaly.java` to obtain CGSs under the privacy protection of the minimum candidate set size $K_{\min}$, the process is simialr to `MainTestCGSShield.java`.
