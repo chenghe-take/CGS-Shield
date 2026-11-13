@@ -1,0 +1,6 @@
+Confirmed
+Death
+Recover
+ForeignConfirmed
+ForeignDeath
+ForeignRecover
